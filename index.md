@@ -24,6 +24,8 @@
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;<a href='https://minecraft-zh.gamepedia.com'>中文 Minecraft Wiki</a>
   <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.zhihu.com/people/h-chen-47'>知乎网</a>
+  <br>
   &nbsp;&nbsp;&nbsp;&nbsp;<a href='https://weibo.com/u/5019035592'>新浪微博</a>
   </b>
   <br>
