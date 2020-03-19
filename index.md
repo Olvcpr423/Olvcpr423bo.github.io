@@ -22,7 +22,7 @@
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/Olvcpr423'>Github</a>
   <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;<a href='https://minecraft-zh.gamepedia.com'>中文 Minecraft Wiki</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href='https://minecraft-zh.gamepedia.com/user:olvcpr423'>中文 Minecraft Wiki</a>
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.zhihu.com/people/h-chen-47'>知乎网</a>
   <br>
