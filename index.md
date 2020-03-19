@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Olvcpr423/Olvcpr423.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Olvcpr423/Olvcpr423.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h1>
+  <font color="#66ccff">
+    <b>
+      欢迎来到 Olvcpr423 的博客
+    </b>
+  </font>
+</h1>
+<br>
+<p>
+  <b>
+    我是 Olvcpr423，学生，<a href='https://minecraft-zh.gamepedia.com'>中文 Minecraft Wiki </a>贡献者，参与 <a href='https://crowdin.com/project/minecraft/zh-CN'>Minecraft</a> 和 <a href='https://crowdin.com/project/kindscript/zh-CN'>Microsoft MakeCode</a> 的中文翻译工作。
+  </b>
+</p>
+<br>
+============
+<p>
+  你可以在：
+  <br>
+  <br>
+  <b>
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href='https://space.bilibili.com/362073308'>哔哩哔哩弹幕视频网</a>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/Olvcpr423'>Github</a>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href='https://minecraft-zh.gamepedia.com'>中文 Minecraft Wiki</a>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href='https://weibo.com/u/5019035592'>新浪微博</a>
+  </b>
+  <br>
+  <br>
+  上找到我。
+  <br>
+  <br>
+============
+  <br>
+  <br>
+  <b>
+  联系方式：
+  </b>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;Email：oliverchan86@outlook.com
+  <br>
+  <br>
+============
+</p>
+<p>
+  <br>
+  <font color='#808080'>
+    <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License </a>unless otherwise noted.
+    <br>
+    除非另有声明，本网站内容采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>授权。
+  </font>
+</p>
